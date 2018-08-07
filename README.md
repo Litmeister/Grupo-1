@@ -1,7 +1,7 @@
 # Grupo 1
 ## Integrantes:
       Ignacio Zamorano 
-		  Yerko Zec.
+      Yerko Zec.
 ## Frameworks:
 Larabel (Php 7)		Decidimos elegir Laravel 5.6 debido a el conocimiento previo del lenguaje PHP 7.
 ## RDBMS:
